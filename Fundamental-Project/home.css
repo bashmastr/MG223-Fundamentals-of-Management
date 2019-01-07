@@ -1,0 +1,27 @@
+body
+{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(pencil.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    /*background-repeat: no-repeat;*/
+}
+
+.navbar-nav
+{
+    margin-left: 32%;
+    font-size: 17px;
+}
+
+#principal
+{
+    color: white;
+}
+
+hr{ width: 75%;}
+
+.teachers
+{
+    color: white;
+    text-align: center;
+}
